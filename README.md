@@ -7,3 +7,18 @@ Code licensed under New BSD License.
 ```
 bower install bz-sticky
 ```
+
+## Usage
+
+```html
+<div bz-sticky>
+</div>
+```
+
+
+```css
+.bz-sticky {
+    position: fixed;
+    top: 0;
+}
+```
