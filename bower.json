@@ -1,0 +1,14 @@
+{
+  "name": "bz-sticky",
+  "version": "0.1.0",
+  "main": [
+    "bz-sticky.js",
+    "bz-sticky.css"
+  ],
+  "ignore": [
+    "examples"
+  ],
+  "dependencies": {
+    "angular": ">=1.2.3"
+  }
+}
